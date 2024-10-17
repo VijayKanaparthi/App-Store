@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.button {
+  border: none;
+  font-size: 26px;
+  color: #7b8794;
+  background-color: transparent;
+  margin-left: 30px;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.appliedCss {
+  text-decoration: 2px underline #2563eb;
+  color: #2563eb;
+  opacity: initial;
+}
